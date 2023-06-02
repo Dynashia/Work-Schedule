@@ -39,8 +39,10 @@ WHEN I refresh the page
 THEN the saved events persist
 
 
-https://courses.bootcampspot.com/courses/2934/files/2412846/preview
 
-# Starter Code 
+Starter Code 
 
 https://github.com/coding-boot-camp/crispy-octo-meme
+
+
+
